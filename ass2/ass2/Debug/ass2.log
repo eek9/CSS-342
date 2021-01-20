@@ -1,0 +1,3 @@
+﻿  timespan.cpp
+C:\Users\eunhe\OneDrive\Documents\Winter2020\CSS342\ass2\ass2\timespan.cpp(12,29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  ass2.vcxproj -> C:\Users\eunhe\OneDrive\Documents\Winter2020\CSS342\ass2\Debug\ass2.exe

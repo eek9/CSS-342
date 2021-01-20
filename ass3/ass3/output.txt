@@ -1,0 +1,127 @@
+Mon Feb  3 19:04:18 PST 2020
+*** compiling with clang++ to create an executable called myprogram
+clang version 3.8.1-24 (tags/RELEASE_381/final)
+Target: x86_64-pc-linux-gnu
+Thread model: posix
+InstalledDir: /usr/bin
+*** running clang-tidy using options from .clang-tidy
+LLVM (http://llvm.org/):
+  LLVM version 3.8.1
+  
+  Optimized build.
+  Built Jun  2 2017 (13:11:29).
+  Default target: x86_64-pc-linux-gnu
+  Host CPU: ivybridge
+5172 warnings generated.
+9318 warnings generated.
+13999 warnings generated.
+Suppressed 13999 warnings (13999 in non-user code).
+Use -header-filter=.* to display errors from all non-system headers.
+*** running myprogram
+xxxxxxxxxxxxxxxxxx x
+x     x       xxxx x
+x xxxxx xxxxx   xx x
+x xxxxx xxxxxxx xx x
+x x          xx xx x
+x xxxxxxxxxx xx    x
+xxxxxxxxxxxxxxxxxxxx
+
+
+Path: EEENNNEEEEEESEESSSEEENNNNN
+xxxxxxxxxxxxxxxxxx*x
+x     x*******xxxx*x
+x xxxxx*xxxxx***xx*x
+x xxxxx*xxxxxxx*xx*x
+x x+****+++++xx*xx*x
+x xxxxxxxxxx+xx****x
+xxxxxxxxxxxxxxxxxxxx
+
+
+xxxxxxxxxxxxxxx
+x              
+x xxxxx xxxxxxx
+x xxxxx xxxxxxx
+x xxxxxxxxxxxxx
+x          xxxx
+xxxxxxxxxx xxxx
+xxxxxxxx   xxxx
+xxxxxxxx xxxxxx
+xxxxxxxx xxxxxx
+xxxxxxxx   xxxx
+x          xxxx
+xxxxxxxx  xxxxx
+xxxxxx   xxxxxx
+xxxxxxxxxxxxxxx
+
+
+Path: ENNNNNNEENNWWWWWWWWWNNNNEEEEEEEEEEEEE
+xxxxxxxxxxxxxxx
+x**************
+x*xxxxx xxxxxxx
+x*xxxxx xxxxxxx
+x*xxxxxxxxxxxxx
+x**********xxxx
+xxxxxxxxxx*xxxx
+xxxxxxxx***xxxx
+xxxxxxxx*xxxxxx
+xxxxxxxx*xxxxxx
+xxxxxxxx*  xxxx
+x       *  xxxx
+xxxxxxxx* xxxxx
+xxxxxx+**xxxxxx
+xxxxxxxxxxxxxxx
+
+
+xxxxxxxxxxx xxx
+xxxxxx      xxx
+xxxxxx xxxxxxxx
+xxxxxx xxxxxxxx
+xxxxxx        x
+xxxxxxxxxxxxx x
+x             x
+xxxxxx xxxxxxxx
+xxxxxx     xxxx
+xxxxxxxxxxxxxxx
+
+
+Path: WWNNEEEEEEENNWWWWWWWNNNEEEEEN
+xxxxxxxxxxx*xxx
+xxxxxx******xxx
+xxxxxx*xxxxxxxx
+xxxxxx*xxxxxxxx
+xxxxxx********x
+xxxxxxxxxxxxx*x
+x     ********x
+xxxxxx*xxxxxxxx
+xxxxxx***  xxxx
+xxxxxxxxxxxxxxx
+
+
+xxxxxxxxxxxxxxxxxxxx
+x  xxxxxxxxxxxxxxx  
+x       xxxxxxxxxx x
+x   xxxxxxxxxxxxxx x
+x xxxxxxxx  xxxxxx x
+x     xxxx  xxxxx  x
+xxxxx xxxxx xxxxx  x
+xxxxx xxxxx   xx  xx
+xxxxx            xxx
+xxxxxxxxxxxxxxxxxxxx
+
+
+Path: EESWWSSEEEESSSEEEEEEEEEEENENNENNNNE
+xxxxxxxxxxxxxxxxxxxx
+x  xxxxxxxxxxxxxxx**
+x***++++xxxxxxxxxx*x
+x***xxxxxxxxxxxxxx*x
+x*xxxxxxxx  xxxxxx*x
+x*****xxxx  xxxxx**x
+xxxxx*xxxxx xxxxx* x
+xxxxx*xxxxx   xx**xx
+xxxxx************xxx
+xxxxxxxxxxxxxxxxxxxx
+
+
+Done!
+*** cleaning up, deleting myprogram
+Mon Feb  3 19:04:26 PST 2020
