@@ -1,0 +1,49 @@
+Mon Jan 13 14:44:16 PST 2020
+*** compiling with clang++ to create an executable called myprogram
+clang version 7.0.1 (tags/RELEASE_701/final)
+Target: x86_64-unknown-linux-gnu
+Thread model: posix
+InstalledDir: /opt/rh/llvm-toolset-7.0/root/usr/bin
+*** running clang-tidy using options from .clang-tidy
+LLVM (http://llvm.org/):
+  LLVM version 7.0.1
+  Optimized build.
+  Default target: x86_64-unknown-linux-gnu
+  Host CPU: broadwell
+*** running myprogram
+Run all tests.
+List all songs:
+Under The Wind
+Safe And Sound
+alpha waves
+Dawning
+Curiosity
+Coda
+When They Come
+Event Horizon
+Laugavegur
+The Discovery
+
+List 0 shuffled songs:
+
+List 1 shuffled songs:
+1 Dawning
+
+List 10 shuffled songs:
+1 When They Come
+2 Event Horizon
+3 Coda
+4 Dawning
+5 Coda
+6 When They Come
+7 alpha waves
+8 The Discovery
+9 Safe And Sound
+10 alpha waves
+
+List all songs using << operator:
+Playlist: Deep Focus
+
+Successfully completed all tests.
+*** cleaning up, deleting myprogram
+Mon Jan 13 14:44:22 PST 2020
